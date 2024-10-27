@@ -4,7 +4,7 @@
 // https://collegelist1-u6u2ednp.b4a.run
 const nextConfig = {
   env: {
-    api: "https://list.glitchy.systems",
+    api: "https://college-list-backend-676921473052.us-central1.run.app",
   },
 };
 
